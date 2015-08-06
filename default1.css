@@ -1,0 +1,148 @@
+body
+{
+	border: 1px transparent solid;
+}
+#topboxS
+{	
+	
+	text-align: center;
+}
+
+.leftdivWrapperS
+{
+	border: 1px red transparent;
+	float: left;
+	width: 200px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+	float: top;
+}
+
+#leftboxS
+{
+	
+	border: 1px grey solid;
+	width: 184px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+
+	overflow: auto;
+
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+	padding: 3px;
+	
+}
+
+#leftbottomS
+{
+	border: 1px grey solid;
+	width: 184px;
+	color: #63656b;
+	font-family: Courier 5cpi;
+
+	overflow: auto;
+
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+	padding: 3px;
+	
+}
+
+#leftboxS li
+{
+	margin-bottom: 15px;
+}
+#rightboxS
+{
+	border: 1px transparent solid;
+	margin-left: 215px;
+	text-align: center;
+	
+}
+#bottomboxS
+{
+	
+	text-align: center;
+	 
+}
+#boxLinks
+{
+	position: absolute;
+	top: 15px;
+	right: 60px;
+	color: purple; 
+}
+#contentS
+{
+	border: 1px transparent solid;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	overflow: auto;
+}
+#imageS
+{
+	border: 2px transparent solid;
+	width:50px;
+	position: absolute;
+	top:30px;
+	left:30px;
+}
+.itembrd
+{
+	border: 1px grey solid;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	height: 350px;
+	width: 175px;
+	padding: 10px 10px 10px 10px;
+	overflow: visible;
+	
+}
+.ProImgBrd
+{
+	height: 200px;
+}
+#middleboxL
+{
+	
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#middleboxR
+{
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+#middleboxFP
+{
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 125px;
+	padding-bottom: 125px;
+}
+#password
+{
+	
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
